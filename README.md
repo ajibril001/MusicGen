@@ -7,3 +7,4 @@ Be sure to download the file in its entierty, in order to run the file using the
 3. once the library is correctly added go to file, examples, scroll to the bottom examples from custom libraries
 4. choose examples from nical vision and or nano 33 ble sense. The best example would be the microphone continues for this project.
 
+nicla_vision_microphone_continuous.ino file is the example code being sent to the arduino device, this example doesn't work as a standalone, and needs the contents from the .zip file to function correctly. I included this to showcase the code being sent to the arduino device.
